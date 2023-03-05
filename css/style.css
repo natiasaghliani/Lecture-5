@@ -26,6 +26,8 @@ header {
 	top: 0;
 	margin-left: 135px;
 	background-color: #F6F8F9;
+	z-index: 100;
+
 }
 
 .section1{
@@ -41,6 +43,7 @@ header {
 	width: 1170px;
 	margin: auto;
 	margin-top: 20px;
+/*	background-color: #F6F8F9;*/
 
 }
 
@@ -57,13 +60,11 @@ h1 {
 
 .wrapper {
 	position: relative;
-	display: inline-block;
 	margin-right: 40px;
 }
 
 .wrapper1 {
 	position: relative;
-	display: inline-block;
 }
 
 h3 {
@@ -80,7 +81,6 @@ h3 {
 	width: 360px;
 	height: 180px;
 	background-color: white;
-	display: inline-block;
 	margin-right: 40px;
 }
 
@@ -89,7 +89,6 @@ h3 {
 	width: 360px;
 	height: 180px;
 	background-color: white;
-	display: inline-block;
 }
 
 .p-style {
@@ -106,6 +105,52 @@ h3 {
 	color: #A6ADB4;
 	top: 125px;
 	left: 40px;
+}
+
+.card {
+	display: inline-block;
+}
+
+.img-size1 {
+	width: 760px;
+	height: 430px;
+	margin-top: 40px;
+/*	z-index: 50;*/
+}
+
+h2 {
+	position: absolute;
+	font-size: 30px;
+	font-weight: bold;
+	color: white;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.wrapper2 {
+	width: 760px;
+	display: inline-block;
+}
+
+.wrapper3 {
+	display: inline-block;
+	vertical-align: top;
+	width: 360px;
+	margin-top: 40px;
+	margin-left: 40px;
+}
+
+.div-wrapper {
+	vertical-align: top;
+	display: inline-block;
+	width: 760px;
+}
+
+.img-size2 {
+	width: 360px;
+	height: 210px;
+	margin-bottom: 102px;
 }
 
 
