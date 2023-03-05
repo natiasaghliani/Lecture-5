@@ -54,3 +54,63 @@ h1 {
 	height: 180px;
 	margin-top: 40px;
 }
+
+.wrapper {
+	position: relative;
+	display: inline-block;
+	margin-right: 40px;
+}
+
+.wrapper1 {
+	position: relative;
+	display: inline-block;
+}
+
+h3 {
+	position: absolute;
+	font-size: 21px;
+	font-weight: bold;
+	color: white;
+	top: 68px;
+	left: 40px;
+}
+
+.white-box {
+	position: relative;
+	width: 360px;
+	height: 180px;
+	background-color: white;
+	display: inline-block;
+	margin-right: 40px;
+}
+
+.white-box1 {
+	position: relative;
+	width: 360px;
+	height: 180px;
+	background-color: white;
+	display: inline-block;
+}
+
+.p-style {
+	position: absolute;
+	width: 280px;
+	color: #A6ADB4;
+	top: 76px;
+	left: 40px;
+}
+
+.p-time {
+	position: absolute;
+	height: 15px;
+	color: #A6ADB4;
+	top: 125px;
+	left: 40px;
+}
+
+
+
+
+
+
+
