@@ -1,0 +1,56 @@
+.logo {
+	display: inline-block;
+	color: #FA6980;
+	margin-right: 92px;
+	font-size: 25px;
+}
+
+ul, li {
+	display: inline-block;
+}
+
+.a-active {
+	color: #343638;
+	font-size: 23px;
+	margin-right: 22px;
+}
+
+.nav-a {
+	color: #A6ADB4;
+	font-size: 23px;
+	margin-right: 22px;
+}
+
+header {
+	position: fixed;
+	top: 0;
+	margin-left: 135px;
+	background-color: #F6F8F9;
+}
+
+.section1{
+	margin-top: 46px;
+}
+
+ body {
+ 	height: 2000px;
+	background-color: #F6F8F9;
+}
+
+.container {
+	width: 1170px;
+	margin: auto;
+	margin-top: 20px;
+
+}
+
+h1 {
+	font-size: 30px;
+	margin-top: 96px;
+}
+
+.img-size {
+	width: 360px;
+	height: 180px;
+	margin-top: 40px;
+}
