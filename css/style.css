@@ -26,9 +26,9 @@ ul, li {
 header {
 	position: fixed;
 	top: 0;
-/*	margin-left: 135px;*/
 	background-color: #F6F8F9;
 	z-index: 100;
+	width: 1440px;
 
 }
 
@@ -43,7 +43,7 @@ header {
 
 .container {
 	width: 1170px;
-	margin: auto;
+	margin:0 auto;
 	margin-top: 20px;
 /*	background-color: #F6F8F9;*/
 
